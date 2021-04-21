@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marvinrn
 - 👀 I’m interested in programing, video games and manga
-- 🌱 I’m currently learning HTML5 CSS3 and javaScript
+- 🌱 I’m currently learning HTML5 CSS3 and JavaScript
 - 📫 How to reach me: marvinnrn@gmail.com
 
 
